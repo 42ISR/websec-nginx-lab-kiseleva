@@ -7,7 +7,8 @@ test.miorii.kitek-pg.ru
 Развернуть веб-страницу на поддомене:
 
 ```text
-test.%ваш_сабдомен%.kitek-pg.ru
+test.miorii.kitek-pg.ru
+
 ```
 
 и настроить для неё HTTPS с сертификатом Let's Encrypt.
